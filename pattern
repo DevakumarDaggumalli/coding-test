@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+void main()
 {
 	int i,j,k,l;
 	for(i=1,j=3,k=5,l=7;i<=5&&j<=15&&k<=29;i=i+2,j=j+2,k=k+2,l=l+2)
